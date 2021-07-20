@@ -11,8 +11,11 @@
   >> git add .            - stage-uje sve modifikovane i sve nepracene fajlove
   
   >> git commit -m "poruka" -m "some description" - lokalni komit
+    
+# Push
   
-  >> git push - pushuje komit na remote repository
+  >> git push origin master - pushuje komit na "master" granu
+  
   
 # SSH Keys - povezivanje lokalne masine i git naloga
   
@@ -24,4 +27,6 @@
   - cd u taj direktorijum
   
   - testkey (privatni kljuc koji cuvam na lokalnom racunaru)
-  - testkey.pub => uploadujem na git interfejs (public key)
+  - testkey.pub => 
+            otvorim: cat testkey.mb
+            uploadujem na git interfejs (public key)
