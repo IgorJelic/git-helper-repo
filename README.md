@@ -1,3 +1,3 @@
 # helpers-repo
 
-Useful git commands
+Useful git commands and EF cheat sheat
