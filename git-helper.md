@@ -1,6 +1,6 @@
 # Cloning
 
-  - >> git clone <copy-repo-link-from-github>
+  - > git clone <copy-repo-link-from-github>
   
 # Existing local repository
   
