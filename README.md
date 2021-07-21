@@ -1,3 +1,3 @@
-# git-helper-repo
+# helpers-repo
 
 Useful git commands
